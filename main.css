@@ -1,0 +1,34 @@
+.navbar-brand{
+    font-family: 'Train One', cursive;
+}
+label{
+    font-weight: bold;
+}
+a{
+    font-weight: bolder;
+}
+#background{
+    background: center center fixed;
+}
+.carouselmainheading{
+    font-weight: bolder;
+    color:black
+}
+.carouselsubheading{
+    font-weight: bold;
+    color:black;
+}
+#backtotop{
+    margin:3vw;
+    font-size: larger;
+}
+#websitename{
+    font-size: 3vw;
+}
+#websitetrademark{
+    font-size: 2vw;
+    text-decoration: underline;
+}
+#construction{
+    color:red;
+}
